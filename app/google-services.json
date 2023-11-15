@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346792783907",
+    "project_id": "chatapp-70d21",
+    "storage_bucket": "chatapp-70d21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346792783907:android:43046653e1ceb98b4e8196",
+        "android_client_info": {
+          "package_name": "com.example.lingoconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHzZBcDCcciNV56iSElYh6yY_ZnE2VnvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
